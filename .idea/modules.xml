@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletut.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletut_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletut_main.iml" group="gradletut" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradletut_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradletut_test.iml" group="gradletut" />
+    </modules>
+  </component>
+</project>
